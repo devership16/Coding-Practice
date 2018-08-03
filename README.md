@@ -1,6 +1,7 @@
 # Competitive-Coding
 Competitive Coding practice questions
 
-1. Python: Questions implmeneted using python
+1. CPP: Questions implemented using CPP
 
-2. CPP: Questions implemented using CPP
+2. Python: Questions implmeneted using python
+
